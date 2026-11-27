@@ -1,5 +1,7 @@
 # Sanal POS ve Kartlı Ödeme Süreci İş Analizi
 
+> **Not:** Bu dokümantasyon seti, ödeme sistemleri ve iş analizi süreçlerini öğrenmek ve kavramları uygulamalı olarak pekiştirmek amacıyla bireysel eğitim/çalışma kapsamında hazırlanmıştır.
+
 Bu çalışma, e-ticaret sanal POS altyapısında kartlı ödeme tahsilatı, üye iş yeri tanımlama, kart verisi güvenliği, hata/zaman aşımı yönetimi ve kullanıcı kabul testi (UAT) süreçlerini uçtan uca ele alan bir iş analizi dokümantasyon setidir.
 
 ## Kapsanan Yetkinlikler
